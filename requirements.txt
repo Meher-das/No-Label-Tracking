@@ -1,6 +1,3 @@
-torch 
-torchvision 
-scikit-learn 
-matplotlib 
-numpy 
-pillow
+opencv-python
+jupyter
+numpy
